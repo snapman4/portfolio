@@ -1,0 +1,63 @@
+#nameHead {
+  padding: 10px 25px;
+  background: #888888;
+  color: #f1f1f1;
+  z-index: 3;
+
+}
+
+/*sticky header position*/
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+#blankRow {
+  position: relative;
+  margin-bottom: 75px;
+
+}
+
+#profileBar {
+  position: inherit;
+  padding-bottom: 75px;
+
+}
+
+#profile {
+  max-width: 600px;
+  width: 100%;
+  margin-left: 15px;
+}
+
+#about, #about2 {
+  max-width: 900px;
+  width: 100%;
+}
+
+.name {
+  margin-left: 400px;
+  position: relative;
+
+}
+
+.position {
+  margin-left: 400px;
+  position: relative;
+}
+
+/*#about, #about2 {*/
+  /*padding-left:-15px*/
+
+/*}*/
+
+#python, #js, #cH {
+  opacity:0.1;
+
+}
+
+#projectsPic {
+  width:100%;
+}
